@@ -119,7 +119,5 @@ In addition, records of prescriptions were reviewed and some other questions wer
 4 other specialty  
 9 no answer  
 
-## REFERENCES
-
 [^1]: Coleman, James, Elihu Katz and Herbert Menzel. 1957. "The Diffusion of an Innovation Among Physicians," Sociometry, 20:253-270.  
 [^2]: Burt, Ronald S. 1987. "Social Contagion and Innovation: Cohesion Versus Structural Equivalence," AJS 92: 1287-1335.
